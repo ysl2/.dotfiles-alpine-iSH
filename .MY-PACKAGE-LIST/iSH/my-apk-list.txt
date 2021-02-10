@@ -139,3 +139,7 @@ subversion
 subversion-zsh-completion
 zsh-vcs
 make
+xxd
+lua5.3-libs
+vim
+fzf-vim
