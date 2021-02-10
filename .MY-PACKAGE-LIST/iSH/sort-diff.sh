@@ -1,9 +1,0 @@
-apk add cmake
-apk add curl
-apk add fd
-apk add gcc
-apk add iproute2
-apk add mariadb
-apk add py3-pip
-apk add subversion
-apk add zsh-vcs
