@@ -133,3 +133,9 @@ py3-retrying
 py3-contextlib2
 py3-pip
 py3-pip-zsh-completion
+fts
+libelf
+libmnl
+libnftnl-libs
+iptables
+iproute2
